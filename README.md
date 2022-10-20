@@ -5,7 +5,7 @@ The main objective of this File Compression project is to design a compression G
 Made a GUI to compress a txt file into a gzip file and decode the encoded text file (compressed into gzip
 file). 
 
-Was able to compress a file of size 2668 kb to 5kb.
+Was able to compress a file of size 1.97GB to 5.45MB.
 
 Used java awt and java swing to design a GUI.
 # Video Demo
