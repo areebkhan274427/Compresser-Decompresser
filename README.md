@@ -13,8 +13,8 @@ Used java awt and java swing to design a GUI.
 
 <!-- https://user-images.githubusercontent.com/74968170/196412431-26733d97-5a90-449f-8e1e-2f069eab5fce.mp4 -->
 
-# Dtails of Projects 
-basically there is a two part of project where in one part we are basically compressing a file and another part again decompessing again.
+# Details of Projects 
+basically there is a two part of project where in one part we are basically compressing a file and another part again decompressing again.
 # Compress java :
 
               public class Compress {
@@ -40,7 +40,7 @@ basically there is a two part of project where in one part we are basically comp
                  }
               }
 
-here we are using FileInputStream() to take a input stream and FileOutputStream for saving the files with sama parents directry . GZIPOutputStream gzipOS = new GZIPOutputStream(fos) this is the main method which will giving the compress file in the form of objecs.we are also making buffer array to compress line by line each word according to our requirments ,we are taking a input txt file in main method and passed the method to compress.
+here we are using FileInputStream() to take a input stream and FileOutputStream for saving the files with same parents directry . GZIPOutputStream gzipOS = new GZIPOutputStream(fos) this is the main method which will giving the compress file in the form of objecs.we are also making buffer array to compress line by line each word according to our requirments ,we are taking a input txt file in main method and passed the method to compress.
 # Decompress .java 
 
               public class Decompress {
@@ -77,7 +77,7 @@ here we are using FileInputStream() to take a input stream and FileOutputStream 
                   }
               }
  
-Here the function is almost similor to compressor in reverse order..
+Here the function is almost similar to compressor in reverse order..
 
 # file comperssed
 ![ScreenShot Tool -20221019011535](https://user-images.githubusercontent.com/74968170/196529167-64dd1dcc-d83f-47da-b860-624befe3b5d0.png)
@@ -93,7 +93,7 @@ The components of Swing are platform-independent, i.e., swing doesn't depend on 
 
 
 # Conclusion
-By now I’m sure you understand exactly how our we can easally compress the file using simple using of function and send it anywhere at slow internet connections and vise versa and also learned about the java awt and java swing ,I hope y’all enjoyed reading this article as much as I enjoyed writing it!
+By now I’m sure you understand exactly how our we can easily compress the file using simple using of function and send it anywhere at slow internet connections and vise versa and also learned about the java awt and java swing ,I hope y’all enjoyed reading this article as much as I enjoyed writing it!
 
 ## Authors
 
