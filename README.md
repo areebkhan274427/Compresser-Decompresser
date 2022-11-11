@@ -9,8 +9,8 @@ Was able to compress a file of size 1.97GB to 5.45MB.
 
 Used java awt and java swing to design a GUI.
 # Video Demo
-[File.webm](https://user-images.githubusercontent.com/74968170/196523890-b371829a-8553-41fc-ad88-b2666d5e66f1.webm)
 
+[CompressorDecompressor.webm](https://user-images.githubusercontent.com/55325380/201402236-99aed4d1-decc-4839-bba8-81d0b5153b8d.webm)
 <!-- https://user-images.githubusercontent.com/74968170/196412431-26733d97-5a90-449f-8e1e-2f069eab5fce.mp4 -->
 
 # Details of Projects 
